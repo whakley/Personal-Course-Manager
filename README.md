@@ -8,8 +8,6 @@ The project currently uses Electron, React, and TypeScript. It is being develope
 
 The project is in its first milestone: building a course list and course overview with sample data. File uploads, persistent storage, document extraction, and calendar integration have not been added yet.
 
-See the [development roadmap](docs/ROADMAP.md) for the current checklist and [technical decisions](docs/DECISIONS.md) for the reasoning behind the main technology choices.
-
 ## Requirements
 
 - Windows 10 or newer
