@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Generated application files
+out/
+dist/
+release/
+.vite/
+
+# Test output
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variables and API credentials
+.env
+.env.*
+!.env.example
+
+# Local databases and temporary database files
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Tool caches
+.eslintcache
